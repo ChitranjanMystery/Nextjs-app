@@ -1,4 +1,4 @@
-import Hero from '@/components/home/hero';
+import Hero from '@/components/home/Hero';
 import Influencer from '@/components/home/Influencer';
 import Monetization from '@/components/home/Monetization';
 import Started from '@/components/home/Started';
